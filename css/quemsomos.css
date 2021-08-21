@@ -1,0 +1,124 @@
+
+#sobre-1 {
+	width: 730px;
+	margin: none;
+	height: 300px;
+	background-color: white;
+	position: relative;
+	display: inline-block;
+	padding: 30px;
+	margin: 10px;
+	border-radius: 5px;
+	border: solid 1px black;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#sobre-1-1 {
+	width: 730px;
+	height: 300px;
+	background-color: #D30707;
+	position: relative;
+	display: inline-block;
+	padding: 30px;
+	margin: 10px;
+	border-radius: 5px;
+	border: solid 1px black;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#contentsobre {
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	display: inline-block;
+	border: solid 1px black;
+	margin: 30px;
+	border-radius: 5px;
+	background-color: white;
+}
+
+#topo-topo {
+	height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	/*background: #EEEEEE;*/
+	background-image: url(../images/banner2.png);
+	padding-top: 55px;
+	padding-bottom: 30px;
+	margin-bottom: 24px;
+}
+
+#temos-felicidade1 {
+	align-text: center;
+	color: white;
+	margin-top: 30px;
+	margin-bottom: 5px;
+	font-size: 50px;
+}
+
+.plorem {
+	line-height: 1.7;
+	text-align: justify;
+	margin-top: 10px;
+}
+
+.plorem2 {
+	line-height: 1.7;
+	text-align: justify;
+	margin-top: 10px;
+	color: white;
+}
+
+#fast2 {
+	color: white;
+}
+
+/* outra parte da pagina */
+#sobre-2 {
+	margin-left: 100px;
+	margin-bottom: 30px;
+	width: 350px;
+	height: 300px;
+	background-color: white;
+	position: relative;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 5px;
+	border: solid 1px black;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#sobre-3 {
+	margin-left: 100px;
+	margin-bottom: 30px;
+	width: 350px;
+	height: 300px;
+	background-color: #D30707;
+	padding: 10px;
+	position: relative;
+	display: inline-block;
+	border-radius: 5px;
+	border: solid 1px black;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#nossosobj {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.m-1 {
+	text-align: center;
+}
+
+#v-1 {
+	text-align: center;
+	color: white;
+}
+
+.imgs-s {
+	margin-left: 130px;
+}

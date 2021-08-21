@@ -1,0 +1,21 @@
+.rs-1 {
+	background-color: blue;
+	width: 500px;
+	height: 500px;
+	position: relative;
+	float: left;
+	display: inline-block;
+	margin: 40px;
+}
+
+#loca-1 {
+	width: 730px;
+	margin-left: 400px;
+	height: 680px;
+	background-color: white;
+	padding: 30px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: solid 1px black;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
